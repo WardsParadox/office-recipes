@@ -7,10 +7,10 @@
 
 Set the REGION key to:
 
-525133 for Americas Office 365 and Americas Volume LATEST (default)
-532572 for Europe Office 365
-532577 for Asia Office 365
+525133 for Office 365 and Americas Volume LATEST (default)
 871743 for Office 2016
+
+Due to the Downloads using Microsoft's Global CDN's the region code is now for type of installer
 
 Set the INSTALLERTYPE key to (this is for version only!):
 

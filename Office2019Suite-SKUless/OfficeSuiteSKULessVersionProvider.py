@@ -30,7 +30,8 @@ class OfficeSuiteSKULessVersionProvider(Processor):
         "installertype":
         {
             "description": "Type of installer for latest suite release package, can be o365, vl2019 or vl2016.",
-            "required": True
+            "required": False,
+            "default": "vl2019"
         }
 
     }
