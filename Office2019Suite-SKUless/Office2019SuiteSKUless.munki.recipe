@@ -29,7 +29,7 @@ vl2016 for Office 2016
 		<key>REGION</key>
 		<string>525133</string>
 		<key>INSTALLERTYPE</key>
-		<string>vl2019</string>
+		<string>o365</string>
 		<key>DOWNLOAD_URL_BASE</key>
 		<string>https://go.microsoft.com/fwlink/?linkid=</string>
 		<key>MUNKI_REPO_SUBDIR</key>
